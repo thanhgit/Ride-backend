@@ -24,8 +24,8 @@ public class ServiceApi {
     private HereService hereService;
     private FirebaseService firebaseService;
 
-    private String app_id="T46Utc5bIveKDvVTTEWb";
-    private String app_code="7YmnS0CRaxn0IGOp77ewaQ";
+    private String app_id="xxx";
+    private String app_code="xxx";
     private String begin="<b>";
     private String end="</b>";
 

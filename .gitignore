@@ -4,6 +4,7 @@ out/
 .mvn/
 mvnw
 mvnw.cmd
+src/main/resources/META-INF/whereapps-71f3b-f91647de8021.json
 
 ### STS ###
 .apt_generated
